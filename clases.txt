@@ -1,4 +1,4 @@
-Mi nombre es Eddie Quintero 
+﻿Mi nombre es Eddie Quintero 
 tengo 47 años
 soy tecnico profesional en sistemas
 vivo en cucuta
@@ -11,3 +11,4 @@ git init = carpeta en la cual iniciamos el proyecto
 git config global user. name " mi nombre" = permite configurar mi nombre en git
 git add "nombre de archivo" = agrega los cambios hechos recientemente
 commit -m "nombre que le doy" = envia el archivo al repositorio
+hola ya pase a hacer practicas en html y css
