@@ -3,4 +3,6 @@ tengo 47 años
 soy tecnico profesional en sistemas
 vivo en cucuta
 trabajo como independiente en soporte tecnico de equipos de computo
-cambios para reflejar el aprendizaje
+actualmente realizando practicas de git hub
+mi objetivo es segur con la ruta de desarrollo web en platzi
+actualmente iniciare mi proceso en mision tic20200
