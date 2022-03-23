@@ -5,10 +5,15 @@ vivo en cucuta
 trabajo como independiente en soporte tecnico de equipos de computo
 actualmente realizando practicas de git hub
 mi objetivo es segur con la ruta de desarrollo web en platzi
-actualmente iniciare mi proceso en mision tic20200
+actualmente iniciare mi proceso en mision tic2022
 hoy es marzo 23 de 2022 me stoy preparando para presentar el examen de ingreso en la universidad industrial de santander
-git init = carpeta en la cual iniciamos el proyecto
-git config global user. name " mi nombre" = permite configurar mi nombre en git
+para realizar el diplomado correspondiente a la mision tic 2022
+
+git init = carpeta en la cual iniciamos el proyecto y me crea un entorno de desarrollo personal*directorio de trabajo*preparacion o staging
+*repositorio loca.(copia exacta de la historia del proyecto en la maquina)
+git add = me coloca el archivo en el area de preparacion es decir tracked - rastreado en area de staging
 git add "nombre de archivo" = agrega los cambios hechos recientemente
-commit -m "nombre que le doy" = envia el archivo al repositorio
-hola ya pase a hacer practicas en html y css
+git config global user. name " mi nombre" = permite configurar mi nombre en git
+commit -m "nombre que le doy" = envia lo que esta en staging al repositorio definitivo-local
+este es el flujo comun para mantener los archivos del proyecto en el pc.
+
